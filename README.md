@@ -1,16 +1,8 @@
-# ikhtibar
+# Quiz
 
-A new Flutter project.
+Quiz app
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_1665098979](https://user-images.githubusercontent.com/115164036/194436841-795860cd-b1ff-44fe-8927-9d1638ce7578.png)
+![Screenshot_1665099000](https://user-images.githubusercontent.com/115164036/194436850-1619f349-f902-4067-a7eb-a87b1037ed35.png)
+![Screenshot_1665099014](https://user-images.githubusercontent.com/115164036/194436852-d184fa63-e98c-4865-911b-079dcb02bacc.png)
